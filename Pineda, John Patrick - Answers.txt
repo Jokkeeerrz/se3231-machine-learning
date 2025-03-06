@@ -1,0 +1,6 @@
+1. Why did you choose this dataset?
+  - I chose this data set because I was curious if gaming had an impact on grades.
+2. What is your conclusion upon conducting linear regression on this dataset?
+  - After performing both single linear regression and mutli linear regression I concluded that there is a weak or negligible relationship between gaming hours and grades and based on the r2 score gaming hours does not significantly predict student grades thus we need to use more factors in predicting the grades which is why it is better to use multi-linear regression
+3. How relevant is linear regression today?
+  - Linear regression remains highly relevant today, especially for small datasets, baseline comparisons, and situations where interpretability is crucial, such as in economics, finance, and social sciences. Its simplicity, speed, and ease of explanation make it a go-to model for understanding relationships between variables. However, in cases involving large datasets, non-linear patterns, or complex data like images or text, modern machine learning models like Random Forest, Gradient Boosting, or Neural Networks offer superior performance. Despite its limitations, linear regression continues to be a foundational tool in data analysis and predictive modeling.
